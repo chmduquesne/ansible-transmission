@@ -14,15 +14,6 @@ Requirements
 
 Debian based system.
 
-Installing
-----------
-
-You can easily install this role using `ansible-galaxy`:
-
-```bash
-ansible-galaxy install elboletaire.transmission -p roles
-```
-
 Variables
 ---------
 
