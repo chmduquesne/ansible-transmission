@@ -6,6 +6,9 @@ Transmission BT Ansible Role
 
 Ansible role for installing and configuring [Transmission](http://www.transmissionbt.com/).
 
+This role was forked because the original author had not integrated my
+changes to make it idempotent.
+
 Requirements
 ------------
 
