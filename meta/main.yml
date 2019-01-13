@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: transmission
   author: Òscar Casajuana
   description: Transmission for debian based systems
   license: MIT
